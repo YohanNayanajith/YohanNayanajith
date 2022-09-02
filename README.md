@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannayanajith&label=Profile%20views&color=0e75b6&style=flat" alt="yohannayanajith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohannayanajith" alt="yohannayanajith" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohannayanajith&&theme=xcode" alt="yohannayanajith" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yohan2758" target="blank"><img src="https://img.shields.io/twitter/follow/yohan2758?logo=twitter&style=for-the-badge" alt="yohan2758" /></a> </p>
 
@@ -25,11 +25,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yohan2758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yohan2758" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yohan nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yohan nayanajith" height="30" width="40" /></a>
-<a href="https://kaggle.com/yohan nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yohan nayanajith" height="30" width="40" /></a>
-<a href="https://fb.com/yohan nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yohan nayanajith" height="30" width="40" /></a>
-<a href="https://www.behance.net/yohan nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yohan nayanajith" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yohan nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yohan nayanajith" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yohan-nayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yohan nayanajith" height="30" width="40" /></a>
+<a href="https://kaggle.com/yohannayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yohan nayanajith" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yohan.nayanajith.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yohan nayanajith" height="30" width="40" /></a>
+<a href="https://www.behance.net/yohannayanajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yohan nayanajith" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTAaFMi-6YW-k08v_JllARQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yohan nayanajith" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yohannayanajith1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yohannayanajith1" height="30" width="40" /></a>
 </p>
 
