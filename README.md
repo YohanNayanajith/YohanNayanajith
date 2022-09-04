@@ -22,6 +22,8 @@
 
 - 👀 Degree - **B.Sc (Hons) in Software Engineering (reading)**
 
+- 📩 Portfolio - **https://musical-semifreddo-80fb5e.netlify.app**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yohan2758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yohan2758" height="30" width="40" /></a>
