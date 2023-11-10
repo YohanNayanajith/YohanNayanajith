@@ -12,13 +12,13 @@
 
 - 📝 I regularly write articles on https://funforprogramming.com/ & https://yohannayanajith.blogspot.com/
 
-- 💬 Ask me about **c, c++, python, ...**
+- 💬 Ask me about **c, c++, python, springboot, aws ...**
 
 - 📫 How to reach me **yohannayanajith40@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/yohannayanajith-cv
+- 📄 Know about my experiences https://bit.ly/yohannayanajith-cv](https://bit.ly/yohan-cv
 
-- ⚡ University - **I’m a 3rd-year computer science undegraduate at the University of Colombo School of Computing.**
+- ⚡ University - **I’m a 4th-year undergraduate at the University of Colombo School of Computing.**
 
 - 👀 Degree - **B.Sc (Hons) in Software Engineering (reading)**
 
