@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **yohannayanajith40@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/yohannayanajith-cv](https://bit.ly/yohan-cv
+- 📄 Know about my experiences https://bit.ly/yohan-cv
 
 - ⚡ University - **I’m a 4th-year undergraduate at the University of Colombo School of Computing.**
 
