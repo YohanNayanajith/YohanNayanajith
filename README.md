@@ -22,7 +22,7 @@
 
 - 👀 Degree - **B.Sc (Hons) in Software Engineering (reading)**
 
-- 📩 Portfolio - **https://musical-semifreddo-80fb5e.netlify.app**
+- 📩 Portfolio - **https://yohan-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
