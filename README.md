@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **yohannayanajith40@gmail.com**
 
-- ⚡ University - **I’m a 4th-year undergraduate at the University of Colombo School of Computing.**
+- ⚡ University - **I’m a 4th-year graduate at the University of Colombo School of Computing.**
 
-- 👀 Degree - **B.Sc (Hons) in Software Engineering (reading)**
+- 👀 Degree - **B.Sc (Hons) in Software Engineering**
 
 - 📩 Portfolio - **https://yohan-portfolio.netlify.app/**
 
