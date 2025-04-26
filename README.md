@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/yohan2758" target="blank"><img src="https://img.shields.io/twitter/follow/yohan2758?logo=twitter&style=for-the-badge" alt="yohan2758" /></a> </p>
 
-- 🌱 I’m currently learning **Something...**
+- 💼 Software Engineer at **Sysco LABS**
 
-- 📝 I regularly write articles on https://funforprogramming.com/ & https://yohannayanajith.blogspot.com/
+- 👔 Founder & Owner of **Bloodsmate** (Clothing Brand) - **https://bloodsmate.com/**
 
-- 💬 Ask me about **c, c++, java, python, springboot, aws ...**
+- 🎓 **B.Sc (Hons) in Software Engineering** – University of Colombo School of Computing (4th Year)
 
-- 📫 How to reach me **yohannayanajith40@gmail.com**
+- 📝 I regularly write articles on **https://yohannayanajith.blogspot.com/**
 
-- ⚡ University - **I’m a 4th-year graduate at the University of Colombo School of Computing.**
-
-- 👀 Degree - **B.Sc (Hons) in Software Engineering**
+- 💬 Ask me about: **Java, Node.js, Python, Spring Boot, AWS, Docker**
 
 - 📩 Portfolio - **https://yohan-portfolio.netlify.app/**
+
+- 📫 How to reach me **yohannayanajith40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
