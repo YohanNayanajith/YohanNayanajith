@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannayanajith&label=Profile%20views&color=0e75b6&style=flat" alt="yohannayanajith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohannayanajith&&theme=xcode" alt="yohannayanajith" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohanathukorala&&theme=xcode" alt="yohanathukorala" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yohan2758" target="blank"><img src="https://img.shields.io/twitter/follow/yohan2758?logo=twitter&style=for-the-badge" alt="yohan2758" /></a> </p>
 
 - 💼 Software Engineer at **Sysco LABS**
 
 - 👔 Founder & Owner of **Bloodsmate** (Clothing Brand) - **https://bloodsmate.com/**
+
+- 👨🏻‍💻 Founder of **Veloce Technology** (Clothing Brand) - **https://veloce-technology.com/**
 
 - 🎓 **B.Sc (Hons) in Software Engineering** – University of Colombo School of Computing (4th Year)
 
