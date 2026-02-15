@@ -1,6 +1,6 @@
 <div align="center"><img align="center" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"></div>
-<h1 align="center">Hi 👋, I'm Yohan Nayanajith</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Yohan Athukorala</h1>
+<h3 align="center">Full-Stack Developer & Entrepreneur | Founder: Veloce Technology & Bloodsmate | Passionate about building impactful software and brands from Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannayanajith&label=Profile%20views&color=0e75b6&style=flat" alt="yohannayanajith" /> </p>
 
