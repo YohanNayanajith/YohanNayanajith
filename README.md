@@ -16,7 +16,7 @@
 
 - 👔 Founder & Owner of **Bloodsmate** (Clothing Brand) - **https://bloodsmate.com/**
 
-- 👨🏻‍💻 Founder of **Veloce Technology** (Clothing Brand) - **https://veloce-technology.com/**
+- 👨🏻‍💻 Founder of **Veloce Technology** - **https://veloce-technology.com/**
 
 - 🎓 **B.Sc (Hons) in Software Engineering** – University of Colombo School of Computing (4th Year)
 
